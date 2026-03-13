@@ -7,3 +7,37 @@
 Kattintsatok a Commit changes gombra. Ez olyan, mint egy mentés.
 
 "Pull Request" (Egyesítés): Ez a legfontosabb rész. Küldjétek vissza a változtatásaitokat nekem a Pull Request (PR) gombbal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+♥->☻
